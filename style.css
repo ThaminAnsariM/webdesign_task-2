@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(240, 230, 213);
+}
+.box{
+    margin: 60px 0px;
+    padding: 40px 0px;
+}
+.eventbox{
+    background-color:white;
+    padding: 15px 0px;
+    margin: 25px 0px;
+}
+.btn{
+    background-color: chocolate;
+}
+.disabled{
+    background-color: chocolate;
+    opacity: 0.6;
+    cursor:not-allowed
+}
+.head{
+    border: 5px;
+}
